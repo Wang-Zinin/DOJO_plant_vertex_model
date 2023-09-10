@@ -1,0 +1,4 @@
+major_mode
+simulation
+minor_mode
+single

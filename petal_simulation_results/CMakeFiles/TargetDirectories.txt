@@ -1,0 +1,3 @@
+/mnt/c/again_and_again/plant_vertex_model_distributed/petal/CMakeFiles/2dv.dir
+/mnt/c/again_and_again/plant_vertex_model_distributed/petal/CMakeFiles/edit_cache.dir
+/mnt/c/again_and_again/plant_vertex_model_distributed/petal/CMakeFiles/rebuild_cache.dir

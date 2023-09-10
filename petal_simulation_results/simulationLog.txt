@@ -1,0 +1,3 @@
+The whole simulation started at 11:19:54, 2023 September 10
+The whole simulation terminated at 14:31:39, 2023 September 10
+The whole simulation (or analysis) calculation took 3h 11m 45s.

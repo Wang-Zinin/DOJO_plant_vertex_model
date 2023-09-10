@@ -1,0 +1,14 @@
+Information of modes and parameters used in this simulation
+in_division_direction : random    epi_division_direction : anticlinal    division_control : Gaussian_area    
+
+General parameter information: 
+sigma_L : 0.5   sigma_O : 2   kappa_S : 1   S_std : 3.5   delta_time : 0.005   eta : 1   standard_cell_period_length : 200   F_apparent : 0.5   T_division_check : 100000   T_vtkoutput : 100000   T_cell_time : 10000   end_cell_number : 1000   step_end : 2000000000   
+
+Cell division frequency and cell division direction information: 
+area_control_lower_limit : 0.3
+area_control_slope : 5
+gau_mu : 0.9
+gau_sigma : 0.1
+
+
+End of parameter record.
